@@ -97,7 +97,7 @@
                 <div class="col-lg-8"><img src="images/intro-logo-175x173.png" alt="" width="175" height="173"/>
                   <h1 class="font-accent"><span class="big">The Queens Menu</span></h1>
                   <ul class="list-inline list-inline-dashed p">
-                    <li class="list-inline-item"><a href="Homepage.aspx">Home</a></li>
+                    <li class="list-inline-item"><a href="HomePage.aspx">Home</a></li>
                     <li class="list-inline-item">Menu
                     </li>
                   </ul>
@@ -422,7 +422,7 @@
                 <div class="col-sm-12 offset-top-66 col-xl-3 order-xl-1 offset-xl-top-0 order-lg-3">
                   <!-- Footer brand-->
                   <div class="footer-brand"><a href="Homepage.aspx"><h1 style="margin-top: -16px; margin-left: 0px;" width="218" height="32">
-                    <span class="d-block font-accent big" style="font-size: 25px;color: #fff;">The Queens Restaurant</span>
+                    <span class="d-block font-accent big" style="font-size: 25px;color: #fff;">The Queens Restaurant & Cafe</span>
                     </h1></a></div>
                   <p class="text-darker offset-top-4">Get the best dining experience</p>
                   <address class="contact-info offset-top-30 p">
@@ -495,7 +495,7 @@
           </div>
         </div>
         <div class="container offset-top-50">
-          <p class="small text-darker"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>The Queen Restaurant</span>. All Rights Reserved And Design by Aateka Vohra & Mansi Patelr</p>
+          <p class="small text-darker"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>The Queen Restaurant & Cafe</span>. All Rights Reserved And Design by Aateka Vohra & Mansi Patelr</p>
         </div>
       </footer>
     </div>

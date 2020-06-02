@@ -42,8 +42,8 @@
                 <!-- RD Navbar Toggle-->
                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar, .rd-navbar-nav-wrap"><span></span></button>
                 <!--Navbar Brand-->
-                <div class="rd-navbar-brand"><p href="Homepage.aspx"></p><h1 style="margin-top: -16px;margin-left: -15px;" width="218" height="32">
-                    <span class="d-block font-accent big" style="font-size: 34px;color: #fff;">The Queens Restaurant</span>
+                <div class="rd-navbar-brand"><p href="HomePage.aspx"></p><h1 style="margin-top: -16px;margin-left: -15px;" width="218" height="32">
+                    <span class="d-block font-accent big" style="font-size: 34px;color: #fff;">The Queens Restaurant & Cafe</span>
                     </h1></div>
               </div>
               <div class="rd-navbar-menu-wrap">
@@ -62,7 +62,7 @@
                     </div>
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="active"><a href="Homepage.aspx"><span>Home</span></a>
+                      <li class="active"><a href="HomePage.aspx"><span>Home</span></a>
                       </li>
                       <li><a href="AboutUs.aspx"><span>About Us</span></a>
                       </li>
@@ -98,7 +98,7 @@
                   <div class="col-lg-8"><img src="images/intro-logo-175x173.png" alt="" width="175" height="173"/>
                     <h1 class="font-accent"><span class="big">Contacts</span></h1>
                     <ul class="list-inline list-inline-dashed p">
-                      <li class="list-inline-item"><a href="Homepage.aspx">Home</a></li>
+                      <li class="list-inline-item"><a href="HomePage.aspx">Home</a></li>
                       <li class="list-inline-item">Contacts
                       </li>
                     </ul>
@@ -184,7 +184,7 @@
                   </div>
         </section>
       </main>
-      <!-- Page Footer--><a class="banner" href="" target="_blank"><img src="" alt=""></a>
+      <!-- Page Footer--><a class="banner" href="" target="_blank"><img src="" alt=""/></a>
       <!-- Default footer-->
       <footer class="section-relative section-top-66 section-bottom-34 page-footer bg-gray-base context-dark">
         <div class="container">
@@ -215,7 +215,7 @@
                 <div class="col-sm-12 offset-top-66 col-xl-3 order-xl-1 offset-xl-top-0 order-lg-3">
                   <!-- Footer brand-->
                   <div class="footer-brand"><p href="Homepage.aspx"></p><h1 style="margin-top: -16px;margin-left: 0px;" width="218" height="32">
-                    <span class="d-block font-accent big" style="font-size: 25px;color: #fff;">The Queens Restaurant</span>
+                    <span class="d-block font-accent big" style="font-size: 25px;color: #fff;">The Queens Restaurant & Cafe</span>
                     </h1></div>
                   <p class="text-darker offset-top-4">Get the best dining experience</p>
                   <address class="contact-info offset-top-30 p">
@@ -288,7 +288,7 @@
           </div>
         </div>
         <div class="container offset-top-50">
-          <p class="small text-darker"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>The Queens Restaurant</span>. All Rights Reserved. Design by Aateka Vohra and Mansi Patel<a href=""></a></p>
+          <p class="small text-darker"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>The Queens Restaurant & Cafe</span>. All Rights Reserved. Design by Aateka Vohra and Mansi Patel<a href=""></a></p>
         </div>
       </footer>
     </div>

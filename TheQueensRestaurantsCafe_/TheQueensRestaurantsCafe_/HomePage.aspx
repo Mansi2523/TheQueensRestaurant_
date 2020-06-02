@@ -497,7 +497,7 @@
                 <div class="col-sm-12 offset-top-66 col-xl-3 order-xl-1 offset-xl-top-0 order-lg-3">
                   <!-- Footer brand-->
                   <div class="footer-brand"><p href="Homepage.aspx"></p><h1 style="margin-top: -16px;margin-left: 0px;" width="218" height="32">
-                    <span class="d-block font-accent big" style="font-size: 25px;color: #fff;">The Queens Restaurant</span>
+                    <span class="d-block font-accent big" style="font-size: 25px;color: #fff;">The Queens Restaurant & Cafe</span>
                     </h1></div>
                   <p class="text-darker offset-top-4">Get the best dining experience</p>
                   <address class="contact-info offset-top-30 p">
@@ -570,7 +570,7 @@
           </div>
         </div>
         <div class="container offset-top-50">
-          <p class="small text-darker"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>The Queens Restaurant</span>. All Rights Reserved. Design by Aateka Vohra and Mansi Patel<a href=""></a></p>
+          <p class="small text-darker"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>The Queens Restaurant & Cafe</span>. All Rights Reserved. Design by Aateka Vohra and Mansi Patel<a href=""></a></p>
         </div>
       </footer>
     </div>

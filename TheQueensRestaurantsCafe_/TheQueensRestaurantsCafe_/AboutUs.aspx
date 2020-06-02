@@ -96,10 +96,10 @@
             <div class="parallax-content">
               <div class="container">
                 <div class="section-110 row justify-content-sm-center align-items-sm-center">
-                  <div class="col-lg-8"><img src="images/intro-logo-175x173.png" alt="" width="175" height="173">
+                  <div class="col-lg-8"><img src="images/intro-logo-175x173.png" alt="" width="175" height="173"/>
                     <h1 class="font-accent"><span class="big">About Us</span></h1>
                     <ul class="list-inline list-inline-dashed p">
-                      <li class="list-inline-item"><a href="index.html">Home</a></li>
+                      <li class="list-inline-item"><a href="HomePage.aspx">Home</a></li>
                       <li class="list-inline-item">About Us
                       </li>
                     </ul>
@@ -135,9 +135,9 @@
                   </div>
                   <div class="col-lg-8 offset-top-66 offset-lg-top-0">
                     <div class="row">
-                      <div class="col-4"><img class="img-fluid mx-auto d-block" src="images/image-06-170x326.png" alt="" width="170" height="326"></div>
-                      <div class="col-4"><img class="img-fluid mx-auto d-block" src="images/image-07-170x326.png" alt="" width="170" height="326"></div>
-                      <div class="col-4"><img class="img-fluid mx-auto d-block" src="images/image-08-170x326.png" alt="" width="170" height="326"></div>
+                      <div class="col-4"><img class="img-fluid mx-auto d-block" src="images/image-06-170x326.png" alt="" width="170" height="326"/></div>
+                      <div class="col-4"><img class="img-fluid mx-auto d-block" src="images/image-07-170x326.png" alt="" width="170" height="326"/></div>
+                      <div class="col-4"><img class="img-fluid mx-auto d-block" src="images/image-08-170x326.png" alt="" width="170" height="326"/></div>
                     </div>
                   </div>
                 </div>
