@@ -114,7 +114,7 @@
             <div class="row justify-content-sm-center justify-content-sm-center">
               <div class="col-xl-4">
                 <h3 class="text-uppercase font-weight-bold">How to Find us</h3>
-                <hr class="divider hr-xl-left-0 bg-mantis">
+                <hr class="divider hr-xl-left-0 bg-mantis"/>
                 <p>Email us with any questions or inquiries or use our contact data. We would be happy to answer you as soon as possible.</p>
                 <address class="contact-info offset-top-50">
                   <div class="h6 text-uppercase font-weight-bold text-picton-blue letter-space-none offset-top-none">The Queens Restaurant</div>
@@ -143,20 +143,20 @@
               </div>
               <div class="col-md-8 offset-top-66 offset-xl-top-0">
                 <h3 class="text-uppercase font-weight-bold">Get in touch</h3>
-                <hr class="divider hr-xl-left-0 bg-mantis">
+                <hr class="divider hr-xl-left-0 bg-mantis"/>
                 <!-- RD Mailform-->
                 <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                   <div class="row">
                     <div class="col-xl-6">
                       <div class="form-group">
                         <label class="form-label form-label-outside" for="contact-us-name">Name:</label>
-                        <input class="form-control" id="contact-us-name" type="text" name="name" data-constraints="@Required">
+                        <input class="form-control" id="contact-us-name" type="text" name="name" data-constraints="@Required"/>
                       </div>
                     </div>
                     <div class="col-xl-6 offset-top-20 offset-xl-top-0">
                       <div class="form-group">
                         <label class="form-label form-label-outside" for="contact-us-email">E-Mail:</label>
-                        <input class="form-control" id="contact-us-email" type="email" name="email" data-constraints="@Required @Email">
+                        <input class="form-control" id="contact-us-email" type="email" name="email" data-constraints="@Required @Email"/>
                       </div>
                     </div>
                     <div class="col-xl-12 offset-top-20">

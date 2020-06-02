@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>The Queens Restaurant</title>
+    <title>The Queens Restaurant & Cafe</title>
     <meta charset="utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
@@ -42,7 +42,7 @@
                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar, .rd-navbar-nav-wrap"><span></span></button>
                 <!--Navbar Brand-->
                 <div class="rd-navbar-brand"><p href="Homepage.aspx"></p><h1 style="margin-top: -16px;margin-left: -15px;" width="218" height="32">
-                    <span class="d-block font-accent big" style="font-size: 34px;color: #fff;">The Queens Restaurant</span>
+                    <span class="d-block font-accent big" style="font-size: 34px;color: #fff;">The Queens Restaurant & Cafe</span>
                     </h1>
                 </div>
               </div>
@@ -62,7 +62,7 @@
                     </div>
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="active"><a href="Homepage.aspx"><span>Home</span></a>
+                      <li class="active"><a href="HomePage.aspx"><span>Home</span></a>
                       </li>
                       <li><a href="AboutUs.aspx"><span>About Us</span></a>
                       </li>
@@ -96,7 +96,7 @@
               <div class="container">
                 <div class="section-110 section-cover row justify-content-sm-center align-items-sm-center">
                   <div class="col-lg-8"><img src="images/intro-logo-175x173.png" alt="" width="175" height="173"/>
-                    <h1 class="font-accent"><span class="big">The Queens Restaurant</span></h1>
+                    <h1 class="font-accent"><span class="big">The Queens Restaurant & Cafe</span></h1>
                     <div class="group">
                       <div class="group-item d-block"><span class="icon icon-xxs mdi mdi-navigation text-middle"></span> <span class="text-middle"><a class="link-white" href="#">4578 Marmora Road, Glasgow D04 89GR</a></span>
                       </div>
@@ -177,101 +177,101 @@
                 </div>
                 <!-- Isotope Content-->
                 <div class="col-xl-12 offset-top-34">
-                  <div class="isotope" data-isotope-layout="fitRows" data-isotope-group="menu">
+                  <div class="isotope isotope--loaded" data-isotope-layout="fitRows" data-isotope-group="menu" style="position: relative; height: 2095px;">
                     <div class="row">
-                      <div class="col-12 col-lg-4 isotope-item" data-filter="Breakfasts">
+                      <div class="col-12 col-lg-4 isotope-item" data-filter="Breakfasts" style="position: absolute; left: 0px; top: 0px;">
                         <div class="inset-lg-right-20">
                           <!-- Pricing Box type 1-->
                           <ul class="box-pricing box-pricing-type-1 list-unstyled">
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Old Timer's Breakfast</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">EGG FRY</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$22.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$15.00</div>
                               </div>
                               <div class="box-pricing-desc text-dark offset-top-10">( Two eggs cooked to order with grits, sawmill gravy, homemade buttermilk biscuits &amp; real butter  )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Fresh Start Sampler</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">OMLET</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$37.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$20.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Start your day with a mix of low fat vanilla yogurt, fresh seasonal fruit topped with our honey mix )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Two eggs cooked & fry with chilli powder, turmuric & egg masala )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
                                 <div class="box-pricing-name text-darker font-weight-bold">Double Meat Breakfast</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$42.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$40.00</div>
                               </div>
                               <div class="box-pricing-desc text-dark offset-top-10">( Three eggs cooked to order with a full order of bacon and sausage patties )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Crab &amp; avocado bruschetta</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Crab &amp; avocado Sandwich</div>
                                 <div class="box-pricing-dots"></div>
                                 <div class="box-pricing-price h5 font-weight-bold">$19.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Fresh white&amp;brown crab, crunchy fennel, smashed avocado, yoghurt &amp; chilli )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Fresh white&amp;brown crab, crunchy fennel, smashed avocado, yoghurt &amp; chilli & bread )
                               </div>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="col-12 col-lg-4 isotope-item" data-filter="Lunches">
+                      <div class="col-12 col-lg-4 isotope-item" data-filter="Lunches" style="position: absolute; left: 0px; top: 409px;">
                         <div class="inset-lg-right-20">
                           <!-- Pricing Box type 1-->
                           <ul class="box-pricing box-pricing-type-1 list-unstyled">
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Turkey milanese</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">BUTTER CHICKEN</div>
                                 <div class="box-pricing-dots"></div>
                                 <div class="box-pricing-price h5 font-weight-bold">$22.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Stuffed with prosciutto &amp; provolone, breadcrumbed &amp; topped with a free-range egg &amp; black summer truffle. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Spicy Chicken gravey with butter &amp; with complimentary rice. )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Fritto misto</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">KAJU MASHALA</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$37.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$30.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Mixed seasonal flash-fried sustainable fish &amp; shellfish served with chunky Italian tartare sauce &amp; lemon. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Brown Gravy with Kaju &amp;served with complimentory rice &amp; onion with lemon. )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Italian steak frites</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">FISH TIKKA</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$42.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$40.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Flash-grilled prime beef steak, served with Italian-spiced skinny fries &amp; crunchy vegetable slaw. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Flash-grilled prime fish steak, served with skinny fries &amp; crunchy vegetable slaw. )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Baked Crespelle</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">LAMB SIKH KABAB</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$19.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$25.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Spinach, Westcombe ricotta &amp; basil baked in gluten-free buckwheat pancakes with smoked mozzarella, sweet buttery leeks, Sicilian tomato sauce &amp; Parmesan. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Flash-grilled prime lamb steak, served with skinny fries &amp; crunchy vegetable slaw &amp; tomato sauce.)
                               </div>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="col-12 col-lg-4 isotope-item" data-filter="Dinners">
+                      <div class="col-12 col-lg-4 isotope-item" data-filter="Dinners" style="position: absolute; left: 0px; top: 868px;">
                         <div class="inset-lg-right-20">
                           <!-- Pricing Box type 1-->
                           <ul class="box-pricing box-pricing-type-1 list-unstyled">
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Our famous prawn linguine</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Our famous prawn Malabari</div>
                                 <div class="box-pricing-dots"></div>
                                 <div class="box-pricing-price h5 font-weight-bold">$22.00</div>
                               </div>
@@ -280,25 +280,25 @@
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Gnocchi genovese</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Garlic Potato</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$37.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$25.00</div>
                               </div>
                               <div class="box-pricing-desc text-dark offset-top-10">( Potato gnocchi with green beans, crushed purple potatoes, basil pesto, toasted pine nuts, bella lodi &amp; ricotta. )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Penne carbonara</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Mughlai Chicken</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$42.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$40.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Crispy chunks of smoked pancetta, sweet buttery leeks, lemon &amp; a traditional carbonara sauce. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Brown chicken gravy, sweet buttery leeks, lemon &amp; a traditional carbonara sauce. )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Three-cheese caramelle</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Three-cheese Caramelle</div>
                                 <div class="box-pricing-dots"></div>
                                 <div class="box-pricing-price h5 font-weight-bold">$19.00</div>
                               </div>
@@ -308,50 +308,50 @@
                           </ul>
                         </div>
                       </div>
-                      <div class="col-12 col-lg-4 isotope-item" data-filter="Desserts">
+                      <div class="col-12 col-lg-4 isotope-item" data-filter="Desserts" style="position: absolute; left: 0px; top: 1302px;">
                         <div class="inset-lg-right-20">
                           <!-- Pricing Box type 1-->
                           <ul class="box-pricing box-pricing-type-1 list-unstyled">
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Tiramisù</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Gulab Jamun</div>
                                 <div class="box-pricing-dots"></div>
                                 <div class="box-pricing-price h5 font-weight-bold">$22.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( The classic Italian dessert topped with chocolate shavings &amp; orange zest. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( The classic Indian dessert topped with chocolate shavings &amp; orange zest. )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Rasbery &amp; honeycomb pavlova</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Rasmalai</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$37.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$30.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Rippled, gooey meringue, zesty cream, macerated raspberries, smashed honeycomb &amp; fresh mint. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( White small sweet mawa bolls . )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Molten chocolate praline pudding</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Brownie With Ice-Cream</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$42.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$30.00</div>
                               </div>
                               <div class="box-pricing-desc text-dark offset-top-10">( Warm chocolate cake with a liquid praline centre, served with salted caramel ice cream &amp; praline.  )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Orange blossom polenta cake</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Orange blossom Blueberry Cake</div>
                                 <div class="box-pricing-dots"></div>
                                 <div class="box-pricing-price h5 font-weight-bold">$19.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Polenta cake studded with candied fruit, served with whipped creme fraiche &amp; pomegranate. )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Polenta cake studded with candied fruit, served with whipped creme fraiche &amp; blueberry. )
                               </div>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="col-12 col-lg-4 isotope-item" data-filter="Drinks">
+                      <div class="col-12 col-lg-4 isotope-item" data-filter="Drinks" style="position: absolute; left: 0px; top: 1736px;">
                         <div class="inset-lg-right-20">
                           <!-- Pricing Box type 1-->
                           <ul class="box-pricing box-pricing-type-1 list-unstyled">
@@ -368,27 +368,27 @@
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
                                 <div class="box-pricing-name text-darker font-weight-bold">La dolce vita</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$37.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$30.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Saliza amaretto, triple sec &amp; sugar syrup shaken up with fresh lemon &amp; cranberry juice )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Saliza amaretto &amp; sugar syrup shaken up with fresh lemon &amp; cranberry juice )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Montepulciano d’abruzzo</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Cherry & Chocolate Shake</div>
                                 <div class="box-pricing-dots"></div>
-                                <div class="box-pricing-price h5 font-weight-bold">$42.00</div>
+                                <div class="box-pricing-price h5 font-weight-bold">$30.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Cherry &amp; chocolate flavours are typical of this well-known grape )
+                              <div class="box-pricing-desc text-dark offset-top-10">(Cherry &amp; chocolate flavours are typical of this well-known grape )
                               </div>
                             </li>
                             <li class="box-pricing-item">
                               <div class="box-pricing-title big text-uppercase text-spacing-120">
-                                <div class="box-pricing-name text-darker font-weight-bold">Sauvignon blanc</div>
+                                <div class="box-pricing-name text-darker font-weight-bold">Kingfisher</div>
                                 <div class="box-pricing-dots"></div>
                                 <div class="box-pricing-price h5 font-weight-bold">$19.00</div>
                               </div>
-                              <div class="box-pricing-desc text-dark offset-top-10">( Herby aromas &amp; melon flavours )
+                              <div class="box-pricing-desc text-dark offset-top-10">( Beer available with other type like premium, strong, blue &amp; storm )
                               </div>
                             </li>
                           </ul>
