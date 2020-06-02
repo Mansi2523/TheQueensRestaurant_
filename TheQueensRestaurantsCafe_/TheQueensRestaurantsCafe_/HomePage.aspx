@@ -64,9 +64,9 @@
                     <ul class="rd-navbar-nav">
                       <li class="active"><a href="Homepage.aspx"><span>Home</span></a>
                       </li>
-                      <li><a href="about.html"><span>About Us</span></a>
+                      <li><a href="AboutUs.aspx"><span>About Us</span></a>
                       </li>
-                      <li><a href="typography.html"><span>Menu</span></a>
+                      <li><a href="Menu.aspx"><span>Menu</span></a>
                       </li>
                       <li><a href="ContactUs.aspx"><span>Contact Us</span></a>
                       </li>
@@ -95,7 +95,7 @@
             <div class="parallax-content">
               <div class="container">
                 <div class="section-110 section-cover row justify-content-sm-center align-items-sm-center">
-                  <div class="col-lg-8"><img src="images/intro-logo-175x173.png" alt="" width="175" height="173">
+                  <div class="col-lg-8"><img src="images/intro-logo-175x173.png" alt="" width="175" height="173"/>
                     <h1 class="font-accent"><span class="big">The Queens Restaurant</span></h1>
                     <div class="group">
                       <div class="group-item d-block"><span class="icon icon-xxs mdi mdi-navigation text-middle"></span> <span class="text-middle"><a class="link-white" href="#">4578 Marmora Road, Glasgow D04 89GR</a></span>

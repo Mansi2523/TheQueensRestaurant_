@@ -88,6 +88,7 @@
     <Content Include="bat\twitter_api\tweet.php" />
     <Content Include="bat\twitter_api\twitteroauth\OAuth.php" />
     <Content Include="bat\twitter_api\twitteroauth\twitteroauth.php" />
+    <Content Include="ContactUs.aspx" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\fonts.css" />
     <Content Include="css\soundcloud.css" />
@@ -142,6 +143,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
     <Compile Include="HomePage.aspx.cs">
       <DependentUpon>HomePage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
